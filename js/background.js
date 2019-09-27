@@ -99,7 +99,7 @@ function initializeListeners() {
         chrome.storage.sync.set({
             sb_url: "",
             api_key: "",
-            subst_one: true
+            subst_one: false
         });
     });
 }
