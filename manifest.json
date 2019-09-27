@@ -15,7 +15,7 @@
          "96": "images/icon-96.png"
       },
       "default_popup": "options/options.html",
-      "default_title": "Configure Baited Addon"
+      "default_title": "Configure SAMSA"
    },
    "content_scripts": [ {
       "css": [ "css/main.css" ],
