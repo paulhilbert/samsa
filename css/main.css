@@ -1,0 +1,43 @@
+.friend_block_v2.persona {
+    height: 70px !important;
+}
+
+.player_avatar img {
+    width: 70px !important;
+    height: 70px !important;
+}
+
+.friend_block_content {
+    margin-top: 5px !important;
+}
+
+.friend_game_link {
+    display: none !important;
+}
+
+.selectable_overlay_sb {
+    z-index: 2;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.sb_button {
+    float: right;
+    position: relative;
+    border-radius: 0;
+    padding: 0;
+    width: 20px;
+    height: 70px;
+    background-color: #d03000;
+}
+
+.id2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #d03000;
+    margin-bottom: 20px !important;
+    display: block;
+}

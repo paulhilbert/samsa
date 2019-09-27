@@ -1,0 +1,29 @@
+body {
+    width: 425px;
+    font-size: 15px;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+.string-input {
+    width: 98%;
+    padding: 2px;
+    font-size: 15px;
+}
+
+.string-fieldset {
+    padding-bottom: 10px;
+}
+
+.header {
+    font-size: 22px;
+    margin: 10px 0;
+    text-align: center;
+}
